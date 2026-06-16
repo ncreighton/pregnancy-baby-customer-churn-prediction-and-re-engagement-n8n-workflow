@@ -1,2 +1,28 @@
-# pregnancy-baby-customer-churn-prediction-and-re-engagement-n8n-workflow
-Score churn risk, trigger win-back sequences, and track save rates. Keep customers before they leave, not after.
+# Pregnancy & Baby Customer Churn Prediction and Re-engagement N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqdR9eTte2M09a5bud0e3i)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqdR9eTte2M09a5bud0e3i)
+
